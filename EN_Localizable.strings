@@ -1,5 +1,4 @@
 // Localization EN
-"Done" = "Done"; 
 "All" = "All";
 "Back" = "Back";
 "Buy" = "Buy";
@@ -10,6 +9,7 @@
 "Create" = "Create";
 "Day" = "Day";
 "Delete" = "Delete";
+"Done" = "Done"; 
 "Enter" = "Enter";
 "Failed" = "Failed";
 "Filter" = "Filter";
