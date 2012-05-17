@@ -1,10 +1,12 @@
 // Localization EN
 "All" = "All";
 "Back" = "Back";
+"BackgroundColor" = "Backgound Color";
 "Buy" = "Buy";
 "Cancel" = "Cancel";
 "Change" = "Change";
 "Clipped" = "Clipped";
+"Color" = "Color";
 "Content" = "Content";
 "Create" = "Create";
 "Day" = "Day";
@@ -25,7 +27,9 @@
 "Password" = "Password";
 "PremiumKey" = "Premium Key";
 "Register" = "Register";
+"Remove" = "Remove";
 "Restore" = "Restore";
+"Save" = "Save";
 "See" = "See";
 "Statistic" = "Statistic";
 "Success" = "Success";

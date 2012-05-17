@@ -1,10 +1,12 @@
 // Localization RU
 "All" = "Все";
 "Back" = "Назад";
+"BackgroundColor" = "Цвет фона";
 "Buy" = "Купить";
 "Cancel" = "Отмена";
 "Change" = "Изменить";
 "Clipped" = "Прикрепленные";
+"Color" = "Цвет";
 "Content" = "Содержание";
 "Create" = "Создать";
 "Day" = "День";
@@ -25,7 +27,9 @@
 "Password" = "Пароль";
 "PremiumKey" = "Премиум ключ";
 "Register" = "Зарегестрироваться";
+"Remove" = "Удалить";
 "Restore" = "Востановить";
+"Save" = "Сохранить";
 "See" = "Посмотреть";
 "Statistic" = "Статистика";
 "Success" = "Успех";
